@@ -48,6 +48,15 @@ These metrics help highlight operational bottlenecks and inefficiencies.
 
 ---
 
+---
+
+## ▶️ How to Run
+
+Run the Python analysis:
+```bash
+python Scripts/analise.py
+
+
 ## 🗂 Project Structure
 
 
