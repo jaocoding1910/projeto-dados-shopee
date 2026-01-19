@@ -1,0 +1,6 @@
+pedido_id,status,data_recebimento,received,packed,outbounded
+1001,Backlog,2026-01-15,1,0,0
+1002,Packed,2026-01-15,1,1,0
+1003,Outbounded,2026-01-16,1,1,1
+1004,Backlog,2026-01-16,1,0,0
+1005,Packed,2026-01-17,1,1,0
